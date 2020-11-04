@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body {
   min-height: 100%;
   display: flex;
@@ -16,3 +17,23 @@ jumbotron {
   height: 20000px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
+=======
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: "29765451247_c33864c9ce_o.jpg";
+  background-size: cover;
+  color: #ffffff;
+  color: #000000;
+  height: 20000px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+>>>>>>> 7cae5ed209ec12b7444ef8152d4707dde0c66591
